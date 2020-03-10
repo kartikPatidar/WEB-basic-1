@@ -6,9 +6,15 @@
 .row-content{
 	margin: 0px;
 	padding: 50px 0px 50px 0px;
-	border-bottom: 1px ridge;
+	border-bottom: 1px ridge;  
 	min-height: 300px;
 }
+
+.row-con{
+	margin:0px;
+	padding:20px 0px 20px 0px;
+}
+
 
 .footer{
 	background-color: #D1C4E9;
@@ -27,4 +33,13 @@
     font-size:80%;
     margin:0px;
     color:#0f0f0f;
+}
+
+.body{
+padding: 50px 0px 0px 0px;
+z-index:0;
+}
+
+.navbar-dark{
+background: #512DA8;
 }
